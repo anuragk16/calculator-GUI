@@ -10,6 +10,13 @@
 ![Screenshot_20221229_123149](https://user-images.githubusercontent.com/90235816/209915806-a3759989-dcdc-4518-b1c2-2d7a106bac27.png)
 
 
+## License
+(c) Anurag kumawat
+
+Licensed under the [MIT License](https://github.com/anuragk16/calculator-GUI/blob/main/License)
+
+
+
 ## 🔗 Links :-
 
 [Youtube](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
